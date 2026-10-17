@@ -1,10 +1,10 @@
-# 📊 Market Intelligence & Competitor Scraping Tool
+#  Market Intelligence & Competitor Scraping Tool
 
 An end-to-end Python web application designed for product teams, data engineers, and founders to discover mobile app competitors on the Google Play Store, scrape customer reviews, perform sentiment analysis, store relational data locally, and leverage **Google Gemini AI** to uncover critical market gaps and strategic product insights.
 
 ---
 
-## 🚀 Core Features
+##  Core Features
 
 1. **Dynamic App Discovery:** Search the Google Play Store by niche keyword or category and instantly view matching apps with ratings, developers, and icons.
 2. **Targeted Scraping & Pagination:** Select 2 to 4 competitor apps and securely extract recent customer reviews (150–300 reviews per app) without memory bottlenecks or rate-limit crashes.
@@ -17,7 +17,7 @@ An end-to-end Python web application designed for product teams, data engineers,
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3.10+
 - **Web Framework & UI:** Streamlit, Plotly
