@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+google-play-scraper
+openpyxl
+google-genai
